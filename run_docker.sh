@@ -1,0 +1,1 @@
+docker run -p 9999:9999 --rm -it $(docker build -q .)

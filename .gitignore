@@ -1,0 +1,3 @@
+node_modules/*
+load-test/user-files/results/*
+gatling*
